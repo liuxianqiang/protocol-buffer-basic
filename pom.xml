@@ -14,7 +14,6 @@
 	</dependencies>
 
 	<build>
-		<pluginManagement>
 		<plugins>
 			<plugin>
 				<artifactId>maven-antrun-plugin</artifactId>
@@ -45,6 +44,5 @@
 				</executions>
 			</plugin>
 		</plugins>
-		</pluginManagement>
 	</build>
 </project>
